@@ -1,0 +1,5 @@
+{
+  "name": "Auto Pay - Message Service",
+  "description": "A background service app that reads SMS and syncs with a database, featuring offline support and a clean UI.",
+  "requestFramePermissions": []
+}
